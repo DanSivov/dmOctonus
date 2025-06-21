@@ -17,7 +17,7 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center">
           <img 
-            src="/lovable-uploads/e9bd000b-e6d2-48fe-af4f-079c4783264c.png"
+            src="/uploads/e9bd000b-e6d2-48fe-af4f-079c4783264c.png"
             alt="Digital Microscope by Octonus" 
             className="h-12"
           />
